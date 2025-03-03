@@ -8,7 +8,7 @@
 - Detects checkmate and game over conditions
 - Simple and lightweight
 
-## 🛠 Installation
+## 🛠 Installation 
 1. Clone the repository:
    ```bash 
    git clone https://github.com/yourusername/terminal-chess.git

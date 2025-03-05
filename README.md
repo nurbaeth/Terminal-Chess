@@ -16,7 +16,7 @@
    ```
 2. Install dependencies:
    ```bash
-   pip install chess
+   pip install chess 
    ``` 
 
 ## 🎮 How to Play

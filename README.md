@@ -15,7 +15,7 @@
    cd terminal-chess
    ```
 2. Install dependencies:
-   ```bash
+   ```bash 
    pip install chess 
    ``` 
 

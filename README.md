@@ -21,7 +21,7 @@
 
 ## 🎮 How to Play
 1. Run the script:
-   ```bash
+   ```bash 
    python terminal_chess.py
    ```
 2. Enter moves in **UCI format** (e.g., `e2e4`).

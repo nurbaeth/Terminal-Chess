@@ -14,7 +14,7 @@
    git clone https://github.com/yourusername/terminal-chess.git
    cd terminal-chess
    ```
-2. Install dependencies: 
+2. Install dependencies:  
    ```bash   
    pip install chess   
    ``` 

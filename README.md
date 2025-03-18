@@ -9,7 +9,7 @@
 - Simple and lightweight
 
 ## 🛠 Installation 
-1. Clone the repository:
+1. Clone the repository: 
    ```bash  
    git clone https://github.com/yourusername/terminal-chess.git
    cd terminal-chess
